@@ -499,7 +499,6 @@
       "required": [
         "fullName",
         "firstName",
-        "dateOfBirth",
         "govermentIdentifier",
         "governmentIdentifierType"
       ],
